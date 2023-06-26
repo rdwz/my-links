@@ -1,7 +1,7 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Marc RDWZ",
+  "description": "Full Stack Web Dev",
+  "image_url": "https://raw.githubusercontent.com/rdwz/my-links/main/avatar.png",
   "links": [
     {
       "title": "Instagram",
@@ -10,23 +10,18 @@
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://twitter.com/redwerkz",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/rdwz",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/rdwz",
       "icon": "github"
-    },
-    {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
     }
   ]
 }
